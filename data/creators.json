@@ -1,0 +1,39 @@
+{
+    "creators": [
+        {
+            "name": "RAMA WORKS",
+            "logo": "https://static1.squarespace.com/static/563c788ae4b099120ae219e2/t/5e75f3b1b3c84a5a842867be/1584788403011/RW-LOGO-SQR-B_SEASON+2.png",
+            "cardImage": "https://pbs.twimg.com/profile_banners/4787260993/1562807516/1500x500",
+            "twitterHandle": "ramaworks",
+            "website": "https://www.rama.works/",
+            "productTypes": [
+                "keyboards",
+                "keycap-sets",
+                "artisans",
+                "accessories"
+            ]
+        },
+        {
+            "name": "Dwarf Factory",
+            "logo": "https://www.dwarf-factory.com/wp-content/uploads/2019/04/logo-0423.png",
+            "cardImage": "https://pbs.twimg.com/profile_banners/1132503767075524608/1587545556/1500x500",
+            "twitterHandle": "factorydwarf",
+            "website": "https://www.dwarf-factory.com/",
+            "productTypes": [
+                "artisans"
+            ]
+        },
+        {
+            "name": "Keycult",
+            "logo": "https://s3.amazonaws.com/jotformAvatars/4466732147/discord-white-logo.png",
+            "cardImage": "https://pbs.twimg.com/media/EYoj7mRWsAE0jmW?format=jpg&name=medium",
+            "twitterHandle": "keycult",
+            "website": "https://www.keycult.com/",
+            "productTypes": [
+                "keyboards",
+                "artisans",
+                "accessories"
+            ]
+        }
+    ]
+}
